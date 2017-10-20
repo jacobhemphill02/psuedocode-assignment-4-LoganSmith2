@@ -1,0 +1,14 @@
+Blackjack Instructions
+
+Once all cards are dealt look at your cards
+
+If your card values add up to 12 or less:
+	hit
+If your cards add up to 4,5,6,7 or 10:
+	Double Down your bet
+If your cards add up to 12-16 and the dealer's face up card >= 7:
+	hit
+If your cards add up to 12-16 and the dealer's face up card < 7:
+	stay
+If your card values > 16:
+	stay no matter what
